@@ -1,2 +1,2 @@
 require "autotest/growl"
-require "test_notifier/autotest"
+require "autotest/fsevent"
