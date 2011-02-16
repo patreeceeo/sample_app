@@ -78,6 +78,13 @@ nav ul li {
   padding: 0.2em 0;
   }
   
+  /* delete later */
+footer nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0.2em 0;  
+}
+  
 nav ul li a {
   padding: 0 5px;
   font-weight: bold;
@@ -110,9 +117,4 @@ footer {
   
 footer nav {
   float: none;
-  }
-
-footer nav ul li
-  {
-  list-style-type: none;  
   }
